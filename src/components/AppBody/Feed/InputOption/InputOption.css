@@ -1,5 +1,6 @@
 .inputOption {
   display: flex;
+  padding: 4px;
   color: gray;
   align-items: center;
   margin-top: 15px;
